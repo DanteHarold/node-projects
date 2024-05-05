@@ -2,3 +2,5 @@ node_modules/
 dist/
 outputs/
 test-destination/
+logs/
+.env
